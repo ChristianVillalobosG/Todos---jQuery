@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+* {
+    font-family: "Montserrat", sans-serif;
+}
+
+.dropdown-menu {
+    --bs-dropdown-link-active-bg: #424649;
+    font-size: 14px;
+}
+
+a {
+    text-decoration: none;
+}
+
+.custom-card {
+    cursor: pointer;
+}
